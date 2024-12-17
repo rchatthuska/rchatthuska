@@ -14,7 +14,7 @@ I love working with:
 
 ## 👨‍💻 I'm Working On
 - 🔧 Projects for freelance clients.
-- 🚀 Growing [Your Project Name](https://your-project-link.com) to **100k+ monthly visitors**.
+- 🚀 Growing [Trading Bot](https://your-project-link.com) to **100k+ monthly visitors**.
 
 ---
 
