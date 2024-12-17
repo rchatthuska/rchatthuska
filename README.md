@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**rchatthuska/rchatthuska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <img src="https://avatars.githubusercontent.com/u/your_profile_id?v=4" alt="Profile Image" width="200" align="right">
 
 # Hi there 👋
@@ -46,4 +39,3 @@ I love working with:
 
 ## 🎉 Fun Fact
 I'm definitely not a cat person. 🐱❌
-
